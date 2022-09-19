@@ -11,5 +11,9 @@ Um einen Würfelwurf zu simulieren brauchen Wir:
 
 Weiter enwicklung
 -------------------------
+- Bessere Presentation (Designen und Schrifte hizufügen). 
 - Zwei Spieler können werfen.
 - Spieler/in mit dem höheren Zahl gewinnen (ergebnisse werden gezeigt).
+
+
+https://github.com/Maioushka/Dice
